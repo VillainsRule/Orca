@@ -16,5 +16,9 @@
 
 you can confirm the code works by running src/test.ts (it uses the first entry in acc.txt by default)
 
+## imrpotantr note
+
+this is a very imrpotantr note. if you attempt to login on edpuzzle via email/pass, you will run into issues such as having to input the school and the email not being verified. fun fact, these aren't supposed to be normal accounts. they work to the extent of fetching assignments for the answers. yay fun!
+
 <br><br>
 <h5 align='center'>made with :troll: by VillainsRule</h5>
