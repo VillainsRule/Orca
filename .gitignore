@@ -1,0 +1,12 @@
+# modules
+node_modules
+bun.lock
+
+# data
+data
+
+# protected
+.env
+
+# macos
+.DS_Store
