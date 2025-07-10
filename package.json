@@ -7,5 +7,8 @@
     "devDependencies": {
         "@types/bun": "^1.2.17",
         "@types/node": "^24.0.10"
+    },
+    "scripts": {
+        "doesitwork": "bun src/does-it-work.js"
     }
 }
