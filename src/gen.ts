@@ -5,7 +5,7 @@ import path from 'node:path';
 import MTCaptcha from 'mtcrackcha';
 
 const mtc = new MTCaptcha({
-    geminiKey: Bun.env.GEMINI_KEY,
+    geminiKey: process.env.GEMINI_KEY,
     siteKey: 'MTPublic-305dpdlj4',
     host: 'https://edpuzzle.com'
 });
