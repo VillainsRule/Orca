@@ -10,7 +10,7 @@
 1. git clone and stuff
 2. copy `.env.example` to `.env` and input a paid gemini key
    1. too poor to afford? find it on a repo where someone didnt gitignore their `.env`!
-3. install bun
+3. install bun (node also supported)
 4. run `bun .`
 5. profit (accs in data/acc.txt in format email:pass:token)
 
